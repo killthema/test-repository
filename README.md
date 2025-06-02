@@ -2,6 +2,7 @@
 ## 제목 2
 제목2입니다.
 ![파비콘](https://github.com/user-attachments/assets/171e2122-1c1d-4654-92e3-b25f8cda7c55)
+[![HEROPY.DEV](/favicon.png)](https://heropy.dev/)
 
 ### 제목3
 
